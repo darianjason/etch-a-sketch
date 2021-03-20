@@ -1,0 +1,33 @@
+html {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    color: white;
+}
+
+.page {
+    min-height: 100vh;
+    min-width: 100vw;
+    background-color: #221551;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.heading {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.container {
+    height: 75vh;
+    width: 75vh;
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+}
+
+.square {
+    /* background-color: aquamarine; */
+    border: 1px dotted teal;
+}
