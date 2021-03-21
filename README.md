@@ -1,2 +1,2 @@
-# etch-a-sketch
-Etch-a-Sketch
+# Etch-a-Sketch
+A project to practice DOM manipulation using HTML, CSS and JavaScript.
