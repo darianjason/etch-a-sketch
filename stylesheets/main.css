@@ -28,6 +28,7 @@ html {
 
 .square {
     outline: 1px solid teal;
+    transition: all 0.4s;
 }
 
 .button-container {
